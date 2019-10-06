@@ -1,0 +1,2 @@
+#define MY22LASTMSGBOXINFOLIB_API __declspec(dllexport)
+#define MY22LASTMSGBOXINFOLIB_API __declspec(dllimport)

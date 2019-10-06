@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SysInfo"/>
+    <qresource prefix="/">
+        <file>SysInfo.ico</file>
+    </qresource>
+</RCC>

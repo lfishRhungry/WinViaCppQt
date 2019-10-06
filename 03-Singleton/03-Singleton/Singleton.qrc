@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Singleton.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+﻿  FileRev.cpp
+C:\Users\lfish\Projects\WinViaCppStudy\17-FileRev\17-FileRev\FileRev.cpp(55,1): warning C4996: '_wsplitpath': This function or variable may be unsafe. Consider using _wsplitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdlib.h(380): message : 参见“_wsplitpath”的声明
+  17-FileRev.vcxproj -> C:\Users\lfish\Projects\WinViaCppStudy\17-FileRev\Win32\Debug\17-FileRev.exe

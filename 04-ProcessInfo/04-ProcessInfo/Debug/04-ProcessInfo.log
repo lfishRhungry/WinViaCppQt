@@ -1,0 +1,6 @@
+﻿  ProcessInfo.cpp
+C:\Users\lfish\Projects\WinViaCppStudy\04-ProcessInfo\04-ProcessInfo\ProcessInfo.cpp(419,14): warning C4456:  “fOk”的声明隐藏了上一个本地声明
+C:\Users\lfish\Projects\WinViaCppStudy\04-ProcessInfo\04-ProcessInfo\ProcessInfo.cpp(414,7): message :  参见“fOk”的声明
+C:\Users\lfish\Projects\WinViaCppStudy\04-ProcessInfo\04-ProcessInfo\ProcessInfo.cpp(864,14): warning C4456:  “fOk”的声明隐藏了上一个本地声明
+C:\Users\lfish\Projects\WinViaCppStudy\04-ProcessInfo\04-ProcessInfo\ProcessInfo.cpp(859,7): message :  参见“fOk”的声明
+  04-ProcessInfo.vcxproj -> C:\Users\lfish\Projects\WinViaCppStudy\04-ProcessInfo\Win32\Debug\04-ProcessInfo.exe

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>InjLib.ico</file>
+    </qresource>
+</RCC>

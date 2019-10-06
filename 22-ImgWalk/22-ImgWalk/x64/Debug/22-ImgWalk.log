@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+C:\Users\lfish\Projects\WinViaCppStudy\CommonFiles\CmnHdr.h(13,1): warning C4005: “_WIN32_WINNT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : 参见“_WIN32_WINNT”的前一个定义
+C:\Users\lfish\Projects\WinViaCppStudy\CommonFiles\CmnHdr.h(14,1): warning C4005: “WINVER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(238): message : 参见“WINVER”的前一个定义
+  22-ImgWalk.vcxproj -> C:\Users\lfish\Projects\WinViaCppStudy\22-ImgWalk\x64\Debug\22-ImgWalk.dll

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MMFShare.ico</file>
+    </qresource>
+</RCC>
