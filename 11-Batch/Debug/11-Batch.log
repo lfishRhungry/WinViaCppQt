@@ -1,0 +1,8 @@
+﻿  uic Batch.ui
+  rcc Batch.qrc
+  moc Batch.h
+  Batch.cpp
+  main.cpp
+  qrc_Batch.cpp
+  moc_Batch.cpp
+  11-Batch.vcxproj -> C:\Users\lfish\Projects\WinViaCppQt\Win32\Debug\11-Batch.exe
